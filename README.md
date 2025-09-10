@@ -1,4 +1,4 @@
-# Hi 👋, I'm Piyush Tulsiramji Chambhare  
+# Hi 👋, I'm Piyush Chambhare  
 
 🚀 A passionate Java Developer from Maharashtra, India  
 
