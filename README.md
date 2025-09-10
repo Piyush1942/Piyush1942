@@ -13,7 +13,8 @@
 - 💬 Ask me about **Java, Spring Boot, React**  
 - 📂 All of my projects are available here 👉 [My GitHub](https://github.com/Piyush1942)  
 - 📫 Reach me at: **piyushchambhare1942@gmail.com**  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/your-resume-link)  
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tW7RoR9-E6gUkKhurdcHVbHk173K3GKk/view?usp=drive_link)
+ 
 
 ---
 
