@@ -12,7 +12,7 @@
 - 🤝 Looking to collaborate on **Spring Boot + React Projects**  
 - 💬 Ask me about **Java, Spring Boot, React**  
 - 📂 All of my projects are available here 👉 [My GitHub](https://github.com/Piyush1942)  
-- 📫 Reach me at: **piyushchambhare90@gmail.com**  
+- 📫 Reach me at: **piyushchambhare1942@gmail.com**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/your-resume-link)  
 
 ---
