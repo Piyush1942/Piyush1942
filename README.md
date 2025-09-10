@@ -11,8 +11,7 @@
 - 🌱 Learning **Spring Boot, React, REST API, Microservices**  
 - 🤝 Looking to collaborate on **Spring Boot + React Projects**  
 - 💬 Ask me about **Java, Spring Boot, React**  
-- 📂 All of my projects are available here 👉 [My GitHub](https://github.com/Piyush1942)  
-# 👋 Hi, I'm Piyush
+- 📂 All of my projects are available here 👉 [My GitHub](https://github.com/Piyush1942) 
 
 ### 📌 Contact Me
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tW7RoR9-E6gUkKhurdcHVbHk173K3GKk/view?usp=drive_link)  
